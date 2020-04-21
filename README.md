@@ -1,11 +1,10 @@
 # tp_laboratorio_1
 
-en el branch tp1CodeBlocks esta el proyecto en codeBlocks.
+existe un branch para cada TP con su debido proyecto en codeblocks.
+	tp1CodeBlocks
+	tp2CodeBlocks
 
-en master:
 
-Comandos para la ejecucion de la calculadora:
-
-  1- gcc main.c calculadora.c menuCalculadora.c operaciones.c -o makeFile (crea el makeFile)
-  
-  2- ./makeFile (ejecuta el makafile)
+en master carpetas con los tp:
+tp1
+tp2
