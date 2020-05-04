@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1588631680 source:/home/lucas/Escritorio/tp2Codeblocks/main.c
+	"Menu.h"
+
+1588631539 /home/lucas/Escritorio/tp2Codeblocks/Menu.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"StringAcotado.h"
+
+1588631659 /home/lucas/Escritorio/tp2Codeblocks/ArrayEmployees.h
+	<stdio.h>
+	<string.h>
+
+1588631572 /home/lucas/Escritorio/tp2Codeblocks/StringAcotado.h
+
